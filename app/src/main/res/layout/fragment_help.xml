@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.Welcome">
+
+    <TextView
+        android:id="@+id/lbl_hwelcome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"
+        android:text="@string/str_welcome"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/lbl_hinfo1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/str_help1"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/lbl_hinfo2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="@string/str_help2"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/lbl_hinfo3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:text="@string/str_help3"
+        android:textColor="#000000" />
+
+</FrameLayout>

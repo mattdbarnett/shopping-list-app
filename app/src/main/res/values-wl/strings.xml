@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="nav_open">Nav drawer open</string>
+    <string name="nav_closed">Nav drawer closed</string>
+
+    <string name="str_home">Hafan</string>
+    <string name="str_shoppinglist">Rhestr Siopa</string>
+    <string name="str_additem">Ychwanegu Eitem</string>
+    <string name="str_settings">Gosodiadau</string>
+
+    <string name="str_menu_nav_item0">Hafan</string>
+    <string name="str_menu_nav_item1">Rhestr Siopa</string>
+    <string name="str_menu_nav_item2">Ychwanegu Eitem</string>
+    <string name="str_menu_nav_item_3">Gosodiadau</string>
+
+    <string name="str_welcomescreen">Croeso nol</string>
+    <string name="str_stats1">Cyfanswm yr eitemau a ychwanegwyd at eich rhestr:</string>
+    <string name="str_stats2">Cyfanswm yr eitemau unigryw rydych chi wedi\'u prynu:</string>
+    <string name="str_stats3">Cyfanswm yr eitemau rydych chi wedi\'u prynu:</string>
+
+    <string name="str_help">Help</string>
+    <string name="str_help1">Defnyddiwch y drôr ochr i lywio i\'r dudalen \'Ychwanegu Eitem\'..</string>
+    <string name="str_help2">Ar ôl cyrraedd yno, nodwch enw a maint yr eitem.</string>
+    <string name="str_help3">Ar ôl i chi brynu\'r eitem, tynnwch hi o\'r dudalen \'Rhestr \'.</string>
+
+    <string name="str_addformtitle">Ychwanegu Ffurflen Eitem</string>
+    <string name="str_navtitle">Cais Siopa</string>
+    <string name="str_welcome">Croeso i Gais Siopa Matt!</string>
+
+    <string name="str_addtitle">Mewnbynnwch y meysydd canlynol:</string>
+    <string name="str_itemname">Enw\'r Eitem</string>
+    <string name="str_quantity">Nifer</string>
+    <string name="str_submit">Cyflwyno</string>
+    <string name="int_defaultquant">1</string>
+
+    <string name="str_fraglabel1">Enw\'r Eitem:</string>
+    <string name="str_fraglabel2">Nifer yr Eitem:</string>
+    <string name="str_fraglabel3">ID: </string>
+
+    <string name="str_buy">Buy</string>
+
+    <string name="str_localisation">Lleoleiddio</string>
+    <string name="str_english">Saesneg</string>
+    <string name="str_welsh">Cymraeg</string>
+    <string name="str_data">Data</string>
+    <string name="str_personalise">Personoli</string>
+    <string name="str_storage">Storio</string>
+    <string name="str_user">Defnyddiwr</string>
+    <string name="str_clear">Rhestr Glir</string>
+    <string name="str_setname">Newid Enw</string>
+    <string name="str_clearhistory">Hanes Clir</string>
+
+    <string name="str_toast_itemremoved">Eitem wedi\'i Dynnu</string>
+    <string name="str_toast_itemadded">Ychwanegwyd yr Eitem</string>
+    <string name="str_toast_setname">Enw wedi\'i osod fel</string>
+    <string name="str_toast_listcleared">Rhestr wedi\'i glirio</string>
+    <string name="str_toast_historycleared">Hanes wedi\'i Glirio</string>
+    <string name="str_toast_loadsuccess">Llwyth yn Llwyddiannus!</string>
+    <string name="str_toast_savesuccess">Arbedwch yn Llwyddiannus!</string>
+    <string name="str_toast_loadfail">Dim Cadw Data</string>
+
+    <string name="str_alert_listcleared">Ydych chi\'n siŵr eich bod chi am glirio\'ch rhestr?</string>
+    <string name="str_alert_historycleared">Ydych chi\'n siŵr eich bod chi am glirio\'ch hanes?</string>
+    <string name="str_yes">Ydw</string>
+    <string name="str_no">Na</string>
+
+    <string name="save">Arbedwch</string>
+    <string name="load">Llwyth</string>
+</resources>
